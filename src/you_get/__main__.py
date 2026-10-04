@@ -88,6 +88,7 @@ def main(**kwargs):
     """Main entry point.
     you-get (legacy)
     """
+    print("🎉 你好！这是我改过的 you-get！")
     from .common import main
     main(**kwargs)
 

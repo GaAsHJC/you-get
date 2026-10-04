@@ -115,6 +115,8 @@ SITES = {
     'x'                : 'twitter',
     'xiaokaxiu'        : 'yixia',
     'xiaojiadianvideo' : 'fc2video',
+    'xiaohongshu'      : 'xiaohongshu',
+    'xhslink'          : 'xiaohongshu',
     'ximalaya'         : 'ximalaya',
     'xinpianchang'     : 'xinpianchang',
     'yizhibo'          : 'yizhibo',
